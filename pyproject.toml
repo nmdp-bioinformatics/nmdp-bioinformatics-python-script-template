@@ -5,7 +5,7 @@ description = "Add your description here"
 authors = [{ name = "NMDP Bioinformatics", email = "bioinformatics@nmdp.org" }]
 readme = "README.md"
 requires-python = ">=3.13"
-license = "Unlicensed" # or "LGPL-3.0-or-later" for OSS
+license = "LGPL-3.0-only"
 dependencies = []
 classifiers = [
     # How mature is this project? Common values are
